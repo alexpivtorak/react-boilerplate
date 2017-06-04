@@ -1,7 +1,6 @@
 {
-  "name": "react-redux-webpack2-boilerplate",
-  "version": "0.1.6",
-  "private": false,
+  "name": "react-redux-boilerplate",
+  "version": "0.0.1",
   "license": "MIT",
   "main": "index.js",
   "scripts": {
@@ -65,10 +64,10 @@
     "redux": "^3.3.1",
     "redux-thunk": "^2.0.1"
   },
-  "description": "Alex Pivtorak",
+  "description": "Boilerplate for React, Redux, SASS",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Stanko/react-redux-webpack2-boilerplate.git"
+    "url": "git@github.com:alexpivtorak/react-boilerplate.git"
   },
   "keywords": [
     "react",
@@ -78,9 +77,9 @@
   ],
   "author": "Alex Pivtorak",
   "bugs": {
-    "url": "https://github.com/Stanko/react-redux-webpack2-boilerplate/issues"
+    "url": "https://github.com/alexpivtorak/react-boilerplate/issues"
   },
-  "homepage": "https://github.com/Stanko/react-redux-webpack2-boilerplate#readme",
+  "homepage": "https://github.com/alexpivtorak/react-boilerplate",
   "prepush": [
     "npm run lint-break-on-errors --silent"
   ]
