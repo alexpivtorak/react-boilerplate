@@ -50,10 +50,7 @@ export default class Dashboard extends Component {
 
     return (
       <div className='Dashboard'>
-        <h1>Marvin</h1>
-        <p>
-          Boilerplate for kicking off React/Redux applications.
-        </p>
+        <h1>Boilerplate for kicking off React/Redux applications.</h1>
 
         <hr />
 
